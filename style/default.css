@@ -1,0 +1,55 @@
+header {
+  background-color: #26495c;
+  color: #e5e5dc;
+}
+
+body {
+  font-family: serif;
+  color: #26495c;
+}
+
+h1 {
+  font-family: serif;
+  font-size: 4em;
+  text-align: center;
+}
+p {
+  font-size: 1.2em;
+}
+
+nav {
+  text-align: center;
+  margin: 15px auto;
+  padding: 15px auto;
+}
+
+nav ul li {
+  display: inline;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: center;
+  margin: auto 25px;
+  color: #26495c;
+}
+
+nav ul li :hover {
+  color: #26495c;
+  font-weight: bold;
+}
+
+nav ul li :active {
+  color: #c66b3d;
+  font-weight: bolder;
+}
+
+nav ul li :focus {
+  color: #26495c;
+  font-weight: bolder;
+}
+nav ul li :visited {
+  color: #c4a35a;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}
