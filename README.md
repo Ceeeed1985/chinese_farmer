@@ -1,7 +1,5 @@
 # Exercice HTML 03 - Progressive Enhancement - The Chinese Farmer
 
-Vérification
-
 ## Objectif de l'exercice
 
 Sur base d'un texte fourni, l'objectif est de structurer convenablement ce texte dans un fichier html, en utilisant les balises adéquates. L'exercice se compose de trois parties distinctes, à savoir :
