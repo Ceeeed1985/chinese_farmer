@@ -1,0 +1,85 @@
+body{
+    max-width: 90%;
+    margin: 0 auto;
+    background:linear-gradient(to right, #e5e5dc, white);
+}
+
+header :nth-child(1){
+    background-color: #c4a35a;
+}
+
+blockquote {
+    max-width : 50%;
+    margin: 0 auto;
+    padding: 40px 30px;
+    font-size: 160% ;
+    background-color: #e5e5dc;
+    border-left: firebrick 3px solid;
+}
+
+p{
+    font-size: 14px;
+    line-height: 18px;
+    color: #26495c;
+}
+
+a {
+    color : #c66b3d;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:visited{
+    font-weight: bold;
+    text-decoration: underline;
+    color:#c4a35a;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+nav ul li {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+
+.villagers_talking {
+    font-style: italic;
+    border-left: #c66b3d 3px solid;
+
+}
+
+.farmer_talking {
+    font-style: italic;
+    border-left: #26495c 3px solid;
+
+}
+
+th {
+    font-weight: normal;
+}
+
+.good {
+    text-transform: uppercase;
+    color:red;
+}
+
+.bad {
+    text-transform: uppercase;
+    color: green;
+}
+
+.ligne01, .ligne03{
+    background-color: grey;
+}
+
+.ligne01:nth-child(1){
+    
+}
