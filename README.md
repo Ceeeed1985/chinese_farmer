@@ -1,4 +1,6 @@
-# Exercice HTML 03 - The Chinese Farmer
+# Exercice HTML 03 - Progressive Enhancement - The Chinese Farmer
+
+Vérification
 
 ## Objectif de l'exercice
 
